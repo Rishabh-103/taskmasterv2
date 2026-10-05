@@ -1,5 +1,5 @@
 # TASKMASTER
-#### Video Demo: https://www.youtube.com/watch?v=8FWKxPP71g8
+
 #### Vercel link: https://taskmaster-gamma-bay.vercel.app/
 
 A multi-user habit counter. Create Daily, Weekly or Monthly habits, tap **+** to log a completion, and watch your streak grow. Completed habits sink to the bottom and reset automatically when the next period starts.
